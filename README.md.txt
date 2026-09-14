@@ -27,15 +27,15 @@ The objective of this project is to analyze customer purchasing behavior and mar
 
 ### 1. Marketing Executive Overview
 
-![Marketing Executive Overview](Dashboard/Marketing%20Executive%20Overview.png)
+![Marketing Executive Overview](Dashboard/01_Marketing_Executive_Overview.png)
 
 ### 2. Campaign & Channel Performance
 
-![Campaign & Channel Performance](Dashboard/Campaign%20%26%20Channel%20Performance.png)
+![Campaign & Channel Performance](Dashboard/02_Campaign_Channel_Performance.png)
 
 ### 3. Customer & Product Insights
 
-![Customer & Product Insights](Dashboard/Customer%20%26%20Product%20Insights.png)
+![Customer & Product Insights](Dashboard/03_Customer_Product_Insights.png)
 
 ## 📈 Key KPIs
 
@@ -53,9 +53,9 @@ Key business insights will be documented after final validation of the dashboard
 
 ```text
 Dashboard/
-    Marketing Executive Overview.png
-    Campaign & Channel Performance.png
-    Customer & Product Insights.png
+    01_Marketing_Executive_Overview.png
+    02_Campaign_Channel_Performance.png
+    03_Customer_Product_Insights.png
 
 PowerBI/
     Marketing_Campaign_Analysis.pbix
