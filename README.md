@@ -96,7 +96,9 @@ An exploratory demographic workspace focusing on purchasing behavior relative to
 ## ✍️ Author
 
 **Megha Kundu**
-* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* 💼 **LinkedIn:** www.linkedin.com/in/megha-kundu-a2b5a12a0
+
+
 
 
 
